@@ -7,3 +7,6 @@
 
 # mobile workspace cache
 .obsidian/workspace-mobile.json
+
+# community plugins directory
+.obsidian/plugins/

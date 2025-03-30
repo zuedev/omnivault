@@ -1,0 +1,9 @@
+# the usual suspects
+.trash/
+.DS_Store
+
+# desktop workspace cache
+.obsidian/workspace.json
+
+# mobile workspace cache
+.obsidian/workspace-mobile.json

@@ -8,5 +8,8 @@
 # mobile workspace cache
 .obsidian/workspace-mobile.json
 
-# community plugins directory
-.obsidian/plugins/
+# community plugins directory (why tf does gitignore not support negation easily)
+.obsidian/plugins/**
+!/.obsidian/plugins/obsidian-git/
+/.obsidian/plugins/obsidian-git/*
+!/.obsidian/plugins/obsidian-git/data.json
